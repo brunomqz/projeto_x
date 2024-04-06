@@ -1,5 +1,11 @@
 <?php 
 
+
+
+
+echo "testando commit!!! Parte 2";
+
+
 class consulta 
 {
     public int $id;
